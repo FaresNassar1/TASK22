@@ -1,10 +1,10 @@
 {
   "name": "rbac-system",
   "version": "1.0.0",
-  "description": "Role-Based Access Control (RBAC) system",
+  "description": "rbac",
   "main": "./dist/app.js",
   "type": "module",
-  "author": "Shadi Almohtaseb",
+  "author": "Fares Nassar",
   "scripts": {
     "build-tsc": "tsc -w",
     "run-watch": "nodemon ./dist/app.js",
